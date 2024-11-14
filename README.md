@@ -1,7 +1,12 @@
 Nome do Projeto: Projeto-Engenhorta
+
 Nome dos(as) integrantes da equipe: André Faria de Souza
                                     Kenji Kato
+
+                                    
 ODS escolhidas: Saúde e Bem estar, Educação de qualidade e Consumo e produção responsáveis.
+
+
 
 Descrição do projeto: O projeto consiste na construção de um site para o projeto Engenhorta, contendo informações sobre:
 
