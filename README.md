@@ -1,5 +1,5 @@
 Nome do Projeto: Projeto-Engenhorta
-![Capa do Projeto](https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba source **=600x400**)
+![Capa do Projeto](https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba =600x400)
 
 Nome dos(as) integrantes da equipe: André Faria de Souza
                                     Kenji Kato
