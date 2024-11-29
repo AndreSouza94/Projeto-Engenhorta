@@ -3,6 +3,17 @@
 ![Engenhorta](https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba)
 
 ---
+## 📜 **Índice**
+1. [Equipe](#-equipe)  
+2. [ODS Escolhidas](#-ods-escolhidas)  
+3. [Descrição do Projeto](#-descrição-do-projeto)  
+4. [Funcionalidades do Site](#-funcionalidades-do-site)  
+5. [Como Usar](#-como-usar)  
+6. [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
+7. [Contribuindo](#-contribuindo)  
+8. [Contato](#-contato)  
+
+---
 
 ## 👥 **Equipe**  
 - **André Faria de Souza**  
