@@ -1,6 +1,6 @@
 Nome do Projeto: Projeto-Engenhorta
 
-<img src="https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba" alt="Alt Text" width="300" height="400">
+<img src="https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba" alt="Alt Text" width="400" height="200">
 
 
 Nome dos(as) integrantes da equipe: André Faria de Souza
