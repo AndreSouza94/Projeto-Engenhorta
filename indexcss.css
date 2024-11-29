@@ -1,0 +1,43 @@
+@charset "UTF-8";
+
+.bungee-spice-regular {
+    font-family: "Bungee Spice", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+
+body{
+    background-color: #778899;
+}
+
+
+h1{
+    color: white;
+    text-decoration: underline;
+    font-family: bungee system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+p{
+    color: white;
+}
+ul{
+    color: white;
+}
+
+ol{
+    color: white;
+}
+
+h2{
+    color: white;
+}
+
+a{
+    color: white; 
+}
+
+a:hover{
+    background-color: blue;
+    color: white;
+}
+
