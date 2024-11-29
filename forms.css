@@ -8,28 +8,70 @@ header{
     
 }
 
-main{
-   
-    display: flex;
-    flex-direction: column;
-    justify-content: flex-start;
+body {
+    font-family: Arial, sans-serif;
+    background-color: #f0f2f5;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+}
+
+header {
     text-align: center;
-    background-color: aqua;
+    margin-bottom: 30px;
 }
 
-form{
-    padding: 40px;
-    width: 50%;
-    
-    background-color: blue;
-    border-radius: 30px;
-    margin: auto;
-    margin-top: 20px;
+header h1 {
+    font-size: 2rem;
+    color: #6a994e;
+    margin-bottom: 10px;
 }
 
-label{
-    color: white;
+header h3 {
+    font-size: 1rem;
+    color: #555;
 }
-button{
-    margin: 30px;
+
+/* Estilização do formulário */
+form {
+    background-color: #fff;
+    padding: 20px;
+    border-radius: 10px;
+    box-shadow: 0 4px 10px rgba(0, 0, 0, 0.1);
+    max-width: 600px;
+    margin: 0 auto;
+}
+
+form label {
+    font-weight: bold;
+    margin-bottom: 5px;
+    color: #555;
+}
+
+form input[type="text"], 
+form textarea, 
+form select {
+    width: 100%;
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 1rem;
+    margin-bottom: 15px;
+}
+
+
+/* Estilização do botão */
+form button {
+    background-color: #a7c957;
+    color: #fff;
+    border: none;
+    padding: 10px 20px;
+    font-size: 1rem;
+    font-weight: bold;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+form button:hover {
+    background-color: #6a994e;
 }
