@@ -66,5 +66,5 @@ Siga estas etapas para colaborar:
 
 ## 📞 **Contato**  
 Entre em contato com a equipe do projeto:  
-📧 **[E-mail](mailto:exemplo@dominio.com)**  
+📧 **[E-mail](mailto:katokenji8@gmail.com)**  
 🌐 **[Website](#)**  
