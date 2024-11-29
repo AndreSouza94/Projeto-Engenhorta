@@ -61,21 +61,10 @@ O **Projeto Engenhorta** consiste na construção de um site que tem como objeti
 ## 🧰 **Tecnologias Utilizadas**  
 - **HTML5**  
 - **CSS3**  
-- **JavaScript**  
-
----
-
-## 🤝 **Contribuindo**  
-Contribuições são bem-vindas!  
-Siga estas etapas para colaborar:  
-1. Faça um fork do repositório.  
-2. Crie uma branch com suas alterações: `git checkout -b minha-feature`.  
-3. Faça commit das mudanças: `git commit -m 'Adiciona nova funcionalidade'`.  
-4. Envie para a branch principal: `git push origin minha-feature`.  
 
 ---
 
 ## 📞 **Contato**  
 Entre em contato com a equipe do projeto:  
 📧 **[E-mail](mailto:katokenji8@gmail.com)**  
-🌐 **[Website](#)**  
+
