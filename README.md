@@ -68,3 +68,12 @@ O **Projeto Engenhorta** consiste na construção de um site que tem como objeti
 Entre em contato com a equipe do projeto:  
 📧 **[E-mail](mailto:katokenji8@gmail.com)**  
 
+---
+
+# Autores
+
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/bc26aa19-4a8c-4d7e-948d-672a51984840" width=115><br><sub>Kenji Kato</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| :---: | :---: | :---: |
+
+
+
