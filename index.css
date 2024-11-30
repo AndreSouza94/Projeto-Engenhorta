@@ -2,126 +2,127 @@
     font-family: "Rubik Wet Paint", system-ui;
     font-weight: 400;
     font-style: normal;
-  }
+}
 
-
-h1{
-    
-    color:white;
+h1 {
+    color: #f9f9f9; /* Cor branca suave */
     text-align: center;
     padding: 20px;
-   
+    font-size: 2.5em; /* Tamanho do título destacado */
 }
 
-header>img{
+header > img {
     margin: auto;
     display: block;
-
 }
 
-header>h2{
-    color:white;
-    font-family:  sans-serif;
+header > h2 {
+    color: #f0f0f0; /* Branco com leve suavidade */
+    font-family: sans-serif;
     font-size: 15px;
     text-align: center;
 }
 
-header{
-    background-color: green;
-    
+header {
+    background-color: green; /* Mantendo o fundo verde */
 }
 
-body{
+body {
     margin: 0;
+    font-family: Arial, sans-serif; /* Fonte padrão agradável */
+    background-color: #f8f9fa; /* Fundo claro para contraste */
 }
 
-.main{
-    background-image: ".\Cópia de fundo_claro.png";
-    
+.main {
+    background-image: url("./Cópia de fundo_claro.png");
+    background-size: cover;
+    background-repeat: no-repeat;
 }
 
-nav{
+nav {
     display: flex;
     flex-direction: row;
     justify-content: flex-start;
-    
+    background-color: #2c3e50; /* Fundo azul escuro */
+    padding: 10px;
 }
 
-nav>a{
+nav > a {
     text-decoration: none;
-    color: aliceblue;
+    color: #ecf0f1; /* Cor clara para contraste */
     margin: 10px;
     border-radius: 5px;
-    padding: 5px;
+    padding: 8px 12px;
+    font-size: 16px;
+    transition: 0.3s; /* Animação suave */
 }
 
-nav>a:hover{
-    text-decoration: none;
+nav > a:hover {
     color: black;
-    margin: 10px;
     background-color: white;
-    border-radius: 5px;
-    padding: 5px;
 }
 
-#engenhorta{
-    
+#engenhorta {
     text-align: center;
 }
 
-#engenhorta>img{
+#engenhorta > img {
     width: 300px;
-    
 }
 
-#ODS{
-    background-color: #3B4654;
+#ODS {
+    background-color: #3B4654; /* Azul-escuro suave */
     width: 100%;
     margin: auto;
-
+    padding: 20px 0; /* Espaçamento interno */
 }
 
-.ods4{
-    background-color: green;
+.ods4 {
+    background-color: #27ae60; /* Verde mais vibrante */
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
+    border-radius: 10px; /* Cantos arredondados */
 }
 
-.img3-12{
+.img3-12 {
     display: flex;
     background-color: black;
     width: 600px;
     justify-content: space-around;
+    padding: 10px;
+    border-radius: 10px;
 }
 
-.ods3-12{
-    background-color: lightblue;
+.ods3-12 {
+    background-color: #aed6f1; /* Azul claro mais moderno */
     display: flex;
     flex-direction: column;
     justify-content: space-between;
     align-items: center;
+    padding: 20px;
+    border-radius: 10px;
 }
 
-.ods4>img{
+.ods4 > img {
     width: 200px;
     align-items: center;
 }
 
-.img3-12>img{
+.img3-12 > img {
     width: 200px;
-    
 }
 
-
-#enactus{
-    background-color: gray;
+#enactus {
+    background-color: #95a5a6; /* Cinza moderno */
     display: flex;
     flex-direction: column;
     align-items: center;
+    padding: 20px;
+    border-radius: 10px;
 }
 
-#enactus>img{
+#enactus > img {
     width: 200px;
-    
 }
