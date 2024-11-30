@@ -9,9 +9,9 @@
 3. [Descrição do Projeto](#-descrição-do-projeto)  
 4. [Funcionalidades do Site](#-funcionalidades-do-site)  
 5. [Como Usar](#-como-usar)  
-6. [Tecnologias Utilizadas](#-tecnologias-utilizadas)  
-7. [Contribuindo](#-contribuindo)  
-8. [Contato](#-contato)  
+6. [Tecnologias Utilizadas](#-tecnologias-utilizadas)    
+7. [Contato](#-contato)
+8. [Autores](#-Autores)
 
 ---
 
@@ -28,7 +28,7 @@
 
 ---
 
-## 📖 **Descrição do Projeto**  
+3. ## 📖 **Descrição do Projeto**  
 O **Projeto Engenhorta** consiste na construção de um site que tem como objetivo:  
 
 1. **Informar sobre o projeto:**  
@@ -42,7 +42,7 @@ O **Projeto Engenhorta** consiste na construção de um site que tem como objeti
 
 ---
 
-## 🛠 **Funcionalidades do Site**  
+4. ## 🛠 **Funcionalidades do Site**  
 - **Página de Informações:**  
   - Apresenta detalhes sobre o Engenhorta, suas ODS relacionadas e seus objetivos.  
 
@@ -51,26 +51,26 @@ O **Projeto Engenhorta** consiste na construção de um site que tem como objeti
 
 ---
 
-### 🌟 **Como Usar**  
-1. Acesse o site do **Projeto Engenhorta**.  
-2. Navegue pelas páginas para conhecer os objetivos do projeto e as ODS associadas.  
-3. Caso se interesse, preencha o formulário de inscrição para levar o Engenhorta à sua instituição.  
+5. ### 🌟 **Como Usar**  
+   - Acesse o site do **Projeto Engenhorta**.  
+   - Navegue pelas páginas para conhecer os objetivos do projeto e as ODS associadas.  
+   - Caso se interesse, preencha o formulário de inscrição para levar o Engenhorta à sua instituição.  
 
 ---
 
-## 🧰 **Tecnologias Utilizadas**  
+6. ## 🧰 **Tecnologias Utilizadas**  
 - **HTML5**  
 - **CSS3**  
 
 ---
 
-## 📞 **Contato**  
+7. ## 📞 **Contato**  
 Entre em contato com a equipe do projeto:  
 📧 **[E-mail](mailto:katokenji8@gmail.com)**  
 
 ---
 
-# Autores
+8. # Autores
 
 | [<img loading="lazy" src="https://github.com/user-attachments/assets/bc26aa19-4a8c-4d7e-948d-672a51984840" width=115><br><sub>Kenji Kato</sub>](https://github.com/Kenji1-maker) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/f30ae3c6-070c-4fd3-ac7b-bebbb334b5f3" width=115><br><sub>Andre Souza</sub>](https://github.com/AndreSouza94)  |
 | :---: | :---: |
