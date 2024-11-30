@@ -11,7 +11,7 @@
 5. [Como Usar](#-como-usar)  
 6. [Tecnologias Utilizadas](#-tecnologias-utilizadas)    
 7. [Contato](#-contato)
-8. [Autores](#-autores)
+8. [Autores](#-autores) 
 
 ---
 
