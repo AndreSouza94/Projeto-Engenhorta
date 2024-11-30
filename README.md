@@ -15,13 +15,13 @@
 
 ---
 
-## 👥 **Equipe**  
+1. ## 👥 **Equipe**  
 - **André Faria de Souza**  
 - **Kenji Kato**  
 
 ---
 
-## 🌍 **ODS Escolhidas**  
+2. ## 🌍 **ODS Escolhidas**  
 - **Saúde e Bem-estar**  
 - **Educação de Qualidade**  
 - **Consumo e Produção Responsáveis**
