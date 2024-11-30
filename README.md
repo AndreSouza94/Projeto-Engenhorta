@@ -10,7 +10,7 @@
 4. [Funcionalidades do Site](#-funcionalidades-do-site)  
 5. [Como Usar](#-como-usar)  
 6. [Tecnologias Utilizadas](#-tecnologias-utilizadas)    
-7. [Contato](#-contato)
+7. [Contato](#contato)
 8. [Autores](#autores) 
 
 ---
