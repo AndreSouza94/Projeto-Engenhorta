@@ -72,7 +72,7 @@ Entre em contato com a equipe do projeto:
 
 # Autores
 
-| [<img loading="lazy" src="https://github.com/user-attachments/assets/bc26aa19-4a8c-4d7e-948d-672a51984840" width=115><br><sub>Kenji Kato</sub>](https://github.com/camilafernanda) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/30351153?v=4" width=115><br><sub>Guilherme Lima</sub>](https://github.com/guilhermeonrails) |  [<img loading="lazy" src="https://avatars.githubusercontent.com/u/8989346?v=4" width=115><br><sub>Alex Felipe</sub>](https://github.com/alexfelipe) |
+| [<img loading="lazy" src="https://github.com/user-attachments/assets/bc26aa19-4a8c-4d7e-948d-672a51984840" width=115><br><sub>Kenji Kato</sub>](https://github.com/Kenji1-maker) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/f30ae3c6-070c-4fd3-ac7b-bebbb334b5f3" width=115><br><sub>Andre Souza</sub>](https://github.com/AndreSouza94)  |
 | :---: | :---: | :---: |
 
 
