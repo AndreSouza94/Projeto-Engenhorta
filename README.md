@@ -31,12 +31,12 @@
 3. ## 📖 **Descrição do Projeto**  
 O **Projeto Engenhorta** consiste na construção de um site que tem como objetivo:  
 
-1. **Informar sobre o projeto:**  
+- **Informar sobre o projeto:**  
    - Como funciona o projeto.  
    - Quais são as ODS envolvidas.  
    - Quais são os objetivos do projeto.  
 
-2. **Facilitar a inscrição:**  
+- **Facilitar a inscrição:**  
    - O site possui uma página com um formulário de inscrição para usuários interessados.  
    - Apenas usuários com vínculo profissional com instituições de ensino (como diretores, vice-diretores ou professores) poderão demonstrar interesse na implementação do projeto.  
 
