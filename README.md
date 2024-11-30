@@ -10,8 +10,8 @@
 4. [Funcionalidades do Site](#-funcionalidades-do-site)  
 5. [Como Usar](#-como-usar)  
 6. [Tecnologias Utilizadas](#-tecnologias-utilizadas)    
-7. [Contato](#contato)
-8. [Autores](#autores) 
+7. [Contato](#-contato)
+8. [Autores](#-autores) 
 
 ---
 
@@ -70,7 +70,7 @@ Entre em contato com a equipe do projeto:
 
 ---
 
-8. ##  **Autores**
+8. ## 🖋 **Autores**
 
 | [<img loading="lazy" src="https://github.com/user-attachments/assets/bc26aa19-4a8c-4d7e-948d-672a51984840" width=115><br><sub>Kenji Kato</sub>](https://github.com/Kenji1-maker) |  [<img loading="lazy" src="https://github.com/user-attachments/assets/f30ae3c6-070c-4fd3-ac7b-bebbb334b5f3" width=115><br><sub>Andre Souza</sub>](https://github.com/AndreSouza94)  |
 | :---: | :---: |
