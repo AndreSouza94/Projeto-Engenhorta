@@ -1,6 +1,6 @@
 # 🌱 **Projeto Engenhorta**
 
-<img src="https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba" alt="Engenhorta" height="500" width="1000">
+<img src="https://github.com/user-attachments/assets/584b3ebd-5b36-46ab-9edf-93e466243bba" alt="Engenhorta" height="500" width="1100">
 
 ---
 ## 📜 **Índice**
