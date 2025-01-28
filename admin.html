@@ -1,0 +1,46 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Admin - Cadastro de Usuários</title>
+    <link rel="stylesheet" href="index.css"> <!-- Usando o mesmo estilo -->
+</head>
+
+<body>
+    <header>
+        <img src=".\Isologo (1).png" alt="Logo Engenhorta">
+        <h2> Projeto pertencente ao projeto de extensão Enactus UTFPR CP da Universidade Tecnológica Federal do Paraná Câmpus Cornélio Procópio </h2>
+        <nav>
+            <a href="index.html">Inicio </a>
+            <a href="admin.html">Admin</a>
+        </nav>
+    </header>
+
+    <main>
+        <div class="container">
+            <h2>Cadastrar Novo Usuário</h2>
+            <form id="form-cadastro">
+                <label for="nome-usuario">Nome do Usuário:</label>
+                <input type="text" id="nome-usuario" name="nome-usuario" required>
+                <label for="email-usuario">E-mail:</label>
+                <input type="email" id="email-usuario" name="email-usuario" required>
+                <button type="submit">Cadastrar</button>
+                <button type="button" id="limpar-campos">Limpar Campos</button>
+            </form>
+            <input type="text" id="pesquisa" placeholder="Pesquisar...">
+            <button id="btn-pesquisar">Pesquisar</button>
+            <button id="btn-excluir-todos">Excluir Todos</button>
+            <ul id="lista-usuarios"></ul>
+        </div>
+    </main>
+
+    <footer>
+        <a href="http://kenji1-maker.github.io/">Currículo: Kenji Kato</a>
+        <br>
+        <a href="https://andresouza94.github.io/CV/">Currículo: André Souza</a>
+    </footer>
+
+    <script src="admin.js"></script> <!-- Incluindo o script para manipulação -->
+</body>
+</html>
